@@ -1,0 +1,16 @@
+form{
+    border: 3px solid black;
+    border-radius: 2%;
+}
+input{
+    border-radius: 2%;
+}
+label{
+    font-style: italic;
+    font-size: 20px;
+}
+button{
+    border: 1px solid black;
+    height: 50px;
+    width: calc(100vh / 2);
+}
